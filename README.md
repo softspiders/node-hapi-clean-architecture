@@ -1,4 +1,4 @@
-# A simple API built with Hapi.js that follows Clean Architecture principles
+# A simple RESTful API built with *Hapi.js* that follows *Clean Architecture* principles
 
 ---
 
