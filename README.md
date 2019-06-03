@@ -41,7 +41,7 @@ The site is now running at http://localhost:3000.
 ## Authors
 
 - [Jérémy Buget](https://github.com/jbuget) - original code
-- [Alexander Lapygin](https://github.com/AlexanderLapygin) - adopting for Soft Spiders
+- [Alexander Lapygin](https://github.com/AlexanderLapygin) - embedding in Soft Spiders
 
 
 ## Inspirations
