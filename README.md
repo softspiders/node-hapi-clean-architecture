@@ -34,7 +34,7 @@ npm start
 npm test
 ```
 
-The site is now running at http://localhost:3000.  
+The application is now running at http://localhost:3000.  
 
 ---
 
