@@ -1,4 +1,4 @@
-# The simplest example of testing a Next.js application with the Puppeteer and Jest, included in the CI/CD (GitHub->Travis CI->Heroku) pipeline
+# A simple API built with Hapi.js that follows Clean Architecture principles
 
 ---
 
@@ -11,8 +11,6 @@ TBD
 ## Requirements
 
 [*Node*](https://nodejs.org/en/download/package-manager/)
-
-Other dependencies are transitive and therefore installed under the hood.
 
 ---
 
@@ -27,7 +25,13 @@ npm i
 ## Running
 
 ```sh
-npm run dev
+npm start
+```
+
+## Testing
+
+```sh
+npm test
 ```
 
 The site is now running at http://localhost:3000.  
@@ -36,7 +40,13 @@ The site is now running at http://localhost:3000.
 
 ## Authors
 
-[Alexander Lapygin](https://github.com/AlexanderLapygin)
+- [Jérémy Buget](https://github.com/jbuget) - original code
+- [Alexander Lapygin](https://github.com/AlexanderLapygin) - adopting for Soft Spiders
+
+
+## Inspirations
+
+[nodejs-clean-architecture-app](https://github.com/jbuget/nodejs-clean-architecture-app)
 
 ---
 
