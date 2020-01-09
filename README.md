@@ -1,8 +1,10 @@
+SOFTSPIDERS
+
 # A simple RESTful API built with *Hapi.js* that follows *Clean Architecture* principles
 
 ---
 
-## Direct feature ancestors
+## Direct ancestors
 
 TBD
 
