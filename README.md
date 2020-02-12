@@ -4,6 +4,21 @@ SOFTSPIDERS
 
 ---
 
+## Feature tags
+
+- ca
+- hapi
+- node
+- openapi
+- server
+- swagger
+- starter
+- template
+- test
+
+
+---
+
 ## Direct ancestors
 
 TBD
