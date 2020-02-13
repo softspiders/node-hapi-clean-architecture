@@ -1,4 +1,5 @@
-SOFTSPIDERS
+
+[SOFTSPIDERS](https://github.com/softspiders/softspiders)
 
 # A simple RESTful API built with *Hapi.js* that follows *Clean Architecture* principles
 
